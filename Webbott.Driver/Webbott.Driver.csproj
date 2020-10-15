@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.Chrome.WebDriver" Version="85.0.0" />
+    <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.27.0" />
+    <PackageReference Include="Selenium.Opera.WebDriver" Version="2.30.0" />
+    <PackageReference Include="Selenium.Support" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Webbott.DOMSelectors\Webbott.DOMSelectors.csproj" />
+    <ProjectReference Include="..\Webbott.Support\Webbott.Support.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Drivers\chromedriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\geckodriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\MicrosoftWebDriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Drivers\operadriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

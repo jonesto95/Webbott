@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Driver\\Webbott.Driver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.DOMSelectors\\Webbott.DOMSelectors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.DOMSelectors\\Webbott.DOMSelectors.csproj",
+        "projectName": "Webbott.DOMSelectors",
+        "projectPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.DOMSelectors\\Webbott.DOMSelectors.csproj",
+        "packagesPath": "C:\\Users\\jones\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.DOMSelectors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jones\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Driver\\Webbott.Driver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Driver\\Webbott.Driver.csproj",
+        "projectName": "Webbott.Driver",
+        "projectPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Driver\\Webbott.Driver.csproj",
+        "packagesPath": "C:\\Users\\jones\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Driver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jones\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.DOMSelectors\\Webbott.DOMSelectors.csproj": {
+                "projectPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.DOMSelectors\\Webbott.DOMSelectors.csproj"
+              },
+              "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\Webbott.Support.csproj": {
+                "projectPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\Webbott.Support.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[85.0.0, )"
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.27.0, )"
+            },
+            "Selenium.Opera.WebDriver": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\Webbott.Support.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\Webbott.Support.csproj",
+        "projectName": "Webbott.Support",
+        "projectPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\Webbott.Support.csproj",
+        "packagesPath": "C:\\Users\\jones\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jones\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

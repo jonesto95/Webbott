@@ -1,0 +1,9 @@
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\bin\Debug\netcoreapp3.1\Webbott.Support.deps.json
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\bin\Debug\netcoreapp3.1\Webbott.Support.dll
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\obj\Debug\netcoreapp3.1\Webbott.Support.AssemblyInfoInputs.cache
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\obj\Debug\netcoreapp3.1\Webbott.Support.AssemblyInfo.cs
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\obj\Debug\netcoreapp3.1\Webbott.Support.csproj.CoreCompileInputs.cache
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\bin\Debug\netcoreapp3.1\Webbott.Support.pdb
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\obj\Debug\netcoreapp3.1\Webbott.Support.dll
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\obj\Debug\netcoreapp3.1\Webbott.Support.pdb
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.Support\obj\Debug\netcoreapp3.1\Webbott.Support.csprojAssemblyReference.cache

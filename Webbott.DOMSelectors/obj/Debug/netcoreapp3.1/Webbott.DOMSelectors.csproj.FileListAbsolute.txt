@@ -1,0 +1,9 @@
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\bin\Debug\netcoreapp3.1\Webbott.DOMSelectors.deps.json
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\bin\Debug\netcoreapp3.1\Webbott.DOMSelectors.dll
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\bin\Debug\netcoreapp3.1\Webbott.DOMSelectors.pdb
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\obj\Debug\netcoreapp3.1\Webbott.DOMSelectors.AssemblyInfoInputs.cache
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\obj\Debug\netcoreapp3.1\Webbott.DOMSelectors.AssemblyInfo.cs
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\obj\Debug\netcoreapp3.1\Webbott.DOMSelectors.csproj.CoreCompileInputs.cache
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\obj\Debug\netcoreapp3.1\Webbott.DOMSelectors.dll
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\obj\Debug\netcoreapp3.1\Webbott.DOMSelectors.pdb
+C:\Users\jones\Documents\Visual Studio 2019\Projects\Webbott\Webbott.DOMSelectors\obj\Debug\netcoreapp3.1\Webbott.DOMSelectors.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "1XbaFihfzpr0tvEEcQdrY7PwtLSHpcb1zcIwHmdWohbJUEExGgDkUwhhEvpQNyRzx5EMbp34cZvC2q2k8FoEaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jones\\Documents\\Visual Studio 2019\\Projects\\Webbott\\Webbott.Support\\Webbott.Support.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.8\\microsoft.extensions.configuration.fileextensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.8\\microsoft.extensions.configuration.json.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.8\\microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.8\\microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",
+    "C:\\Users\\jones\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
