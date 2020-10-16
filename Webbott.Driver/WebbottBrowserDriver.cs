@@ -8,7 +8,6 @@ using System.Threading;
 
 using Webbott.Support;
 using Webbott.DOMSelectors;
-using System.Security;
 
 namespace Webbott.Driver
 {
@@ -85,10 +84,12 @@ namespace Webbott.Driver
         private IWebDriver seleniumDriver;
 
 
+        public WebbottBrowserDriver() 
+            => ApplyBrowserSettings(BrowserSettings.DefaultSettings);
+
+
         public WebbottBrowserDriver(BrowserSettings browserSettings)
-        {
-            ApplyBrowserSettings(browserSettings);
-        }
+            => ApplyBrowserSettings(browserSettings);
 
 
         public WebbottBrowserDriver(BrowserSettings browserSettings, string url)

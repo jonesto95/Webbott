@@ -26,6 +26,18 @@ namespace Webbott.Support
     }
 
 
+    public class InvalidTimeUnitException : Exception
+    {
+        public InvalidTimeUnitException(string message) : base(message) { }
+
+        public static InvalidTimeUnitException ThrowNew(TimeUnit timeUnit)
+        {
+            string message = $"Time Unit {timeUnit} not supported";
+            return new InvalidTimeUnitException(message);
+        }
+    }
+
+
     public class UnknownSelectorTypeException : Exception
     {
         public UnknownSelectorTypeException(string message) : base(message) { }

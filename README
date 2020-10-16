@@ -1,0 +1,8 @@
+# Webbott
+
+#### C# wrapper for the Selenium web browser automation software
+
+## Changelog
+
+###### 10/15/2020
+ - Create Timer class for website performance testing
